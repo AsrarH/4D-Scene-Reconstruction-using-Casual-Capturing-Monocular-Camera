@@ -12,17 +12,23 @@ Traditional methods for 4D scene reconstruction often require specialized equipm
 - **Novel Dynamic View Prediction:** Employ video diffusion models to predict novel dynamic views from captured data.
 
 ## Methodology
-1. **Tri-plane Representation using Multiview Synthetic Data:**
 
-
-2. **Casual Capturing with a Monocular Camera on Real Data:**
 
 ## Installation
-soon
-## References
-- Dynamic Novel-View Synthesis: A Reality Check
-- D-NeRF: Neural Radiance Fields for Dynamic Scenes
-- HexPlane: A Fast Representation for Dynamic Scenes.
-- Nerfies: Deformable Neural Radiance Fields.
-- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.
-- TensoRF Tensorial Radiance Fields.
+
+## References and Acknowledgements
+This project builds upon the D-NeRF
+
+      @article{pumarola2020d,
+        title={D-NeRF: Neural Radiance Fields for Dynamic Scenes},
+        author={Pumarola, Albert and Corona, Enric and Pons-Moll, Gerard and Moreno-Noguer, Francesc},
+        journal={arXiv preprint arXiv:2011.13961},
+        year={2020}
+      }
+
+    @article{Cao2023HexPlane,
+    author    = {Cao, Ang and Johnson, Justin},
+    title     = {HexPlane: A Fast Representation for Dynamic Scenes},
+    journal   = {CVPR},
+    year      = {2023},
+    }
