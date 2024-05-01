@@ -10,7 +10,6 @@ from tri_plane import *
 
 from load_blender import load_blender_data
 
-# from HexPlane.hexplane.dataloader.dnerf_dataset import DNerfDataset
 try:
     from apex import amp
 except ImportError:
