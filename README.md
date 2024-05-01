@@ -9,7 +9,7 @@ Traditional methods for 4D scene reconstruction often require specialized equipm
 
 ## Methodology
 
-![pipeline](imgs/pipeline.png)  
+![pipeline](imgs/pipeline.mp4)  
 ![triplane](imgs/triplane.png)
 
 ## Datasets
