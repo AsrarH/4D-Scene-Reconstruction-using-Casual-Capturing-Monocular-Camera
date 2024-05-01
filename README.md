@@ -12,8 +12,14 @@ Traditional methods for 4D scene reconstruction often require specialized equipm
 ![pipeline](imgs/pipeline.png)  
 ![triplane](imgs/triplane.png)
 
-## Installation
+## Datasets
+We use two datasets in this project:
+- **D-Nerf Dataset**: [Download from Dropbox](https://www.dropbox.com/s/0bf6fl0ye2vz3vr/data.zip?e=1&dl=0)
+- **iPhone Dataset**: [Access on Google Drive](https://drive.google.com/drive/folders/1cBw3CUKu2sWQfc_1LbFZGbpdQyTFzDEX)
 
+## Installation
+      git clone https://github.com/AsrarH/4D-Scene-Reconstruction-using-Casual-Capturing-Monocular-Camera.git
+      pip install -r requirements.txt
       python run.py
       
 ## References and Acknowledgements
