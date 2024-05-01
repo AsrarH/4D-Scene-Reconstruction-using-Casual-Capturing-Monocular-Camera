@@ -9,9 +9,13 @@ Traditional methods for 4D scene reconstruction often require specialized equipm
 
 ## Methodology
 
+![pipeline](imgs/pipeline.png)  
+![triplane](imgs/triplane.png)
 
 ## Installation
 
+      python run.py
+      
 ## References and Acknowledgements
 This project builds upon the D-NeRF
 
