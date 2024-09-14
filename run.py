@@ -5,7 +5,7 @@ import time
 from torch.utils.tensorboard import SummaryWriter
 from tqdm import tqdm, trange
 
-from tri_plane import *
+from run_tri_plane import *
 
 from load_blender import load_blender_data
 
